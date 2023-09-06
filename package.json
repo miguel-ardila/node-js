@@ -1,0 +1,23 @@
+{
+  "name": "calculadora",
+  "version": "1.0.0",
+  "description": "Calculadora creada con cammonjs",
+  "main": "calculadora.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/miguel-ardila/node-js.git"
+  },
+  "keywords": [
+    "js",
+    "commonjs"
+  ],
+  "author": "Miguel-Ardila",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/miguel-ardila/node-js/issues"
+  },
+  "homepage": "https://github.com/miguel-ardila/node-js#readme"
+}
