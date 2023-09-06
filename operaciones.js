@@ -14,3 +14,4 @@ function divi (num1, num2) {
     const result = num1 / num2;
     return result;
 }
+module.exports = {suma, rest, mult, divi}
