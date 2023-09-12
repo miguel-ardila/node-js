@@ -12,10 +12,6 @@ function saludar (nombre){
 
 saludar("Miguel").then((respuesta)=>{
     console.log(respuesta);
-}) .catch(())=>{
+}) .catch(())=>{}
 
 console.log("Hola clase")
-
-
-
-//console.log(saludar("diego"));
